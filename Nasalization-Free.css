@@ -4,3 +4,6 @@
         font-weight: 400;
         src: url(https://github.com/insightcoders/Nasalization-Free/blob/master/nasalization-rg.ttf) format('truetype');
 }
+h1{
+        color:red !important;
+}
