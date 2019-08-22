@@ -5,5 +5,5 @@
         src: url(https://github.com/insightcoders/Nasalization-Free/blob/master/nasalization-rg.ttf) format('truetype');
 }
 h1{
-        color:red !important;
+       text-shadow: 4px 4px 4px #aaa !important;
 }
