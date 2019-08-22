@@ -2,7 +2,7 @@
         font-family: nasalization free;
         font-style: normal;
         font-weight: 400;
-        src: url(https://github.com/insightcoders/Nasalization-Free/blob/master/nasalization-rg.ttf) format('truetype');
+        src: url(https://github.com/insightcoders/Nasalization-Free/blob/master/nasalization-rg.ttf);
 }
 h1{
        text-shadow: 4px 4px 4px #aaa !important;
